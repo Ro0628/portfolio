@@ -1,14 +1,14 @@
 {
   "name": "portfolio",
   "description": "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
-  "homepage": "http://ro0628.github.io/portfolio/pages",
+  "homepage": "http://ro0628.github.io/portfolio/",
   "version": "0.2.0",
   "license": "MIT",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Ronalda Johnson",
+    "email": "ronaldalajuan@gmail.com",
+    "url": "https://github.com/ro628"
   },
   "scripts": {
     "prebuild": "node scripts/favicons.js",
