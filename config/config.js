@@ -84,7 +84,7 @@ export const projects = {
         },
         {
           icon: faGithub,
-          link: "https://github.com/hashirshoaeb/star_book",
+          link: "https://github.com/ro0628/star_book",
         },
       ]
     },
@@ -108,7 +108,7 @@ export const projects = {
       icons: [
         {
           icon: faGithub,
-          link: "https://github.com/hashirshoaeb/portfolio",
+          link: "https://github.com/ro0628/portfolio",
         },
       ]
     },
